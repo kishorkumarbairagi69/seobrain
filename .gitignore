@@ -1,0 +1,33 @@
+# dependencies
+
+node_modules/
+
+# build
+
+.next/
+dist/
+
+# env files
+
+.env
+.env.local
+
+# logs
+
+*.log
+
+# macOS
+
+.DS_Store
+
+# vscode
+
+.vscode/
+
+# prisma generated
+
+backend/src/generated/
+
+# coverage
+
+coverage/
